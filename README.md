@@ -24,7 +24,7 @@ I bridge the gap between complex engineering and real-world business operations,
 #### 🚀 Featured Projects
 
 * [**n8n Candidate Screening System**](https://github.com/DawidKocma): Automated data pipeline using LLMs to structure skills from unstructured text.
-* [**Serverless Housing Valuation API**](https://github.com/DawidKocma): A production-ready MLOps pipeline using Scikit-Learn for asset pricing.
+* [**Serverless Housing Valuation API**]: A production-ready MLOps pipeline using Scikit-Learn for asset pricing.
 * [**Real-Time News Aggregator**] [Currently Updating]: Discord Agent - Low-latency NLP agent built with Python and Docker for sentiment analysis and noise filtering.
 * **[COMING SOON] Insurance Fraud Detection Engine:** Developing an anomaly detection model targeting common motor insurance fraud patterns (e.g., staged accidents, ghost broking).
 
